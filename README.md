@@ -1,2 +1,31 @@
-# ef0025d4-b2b-saas-customer-success-play
-An n8n workflow for customer success teams automating the QBR and health review cycle for B2B SaaS accounts. Pulls product usage and health score data from Gainsight or ChurnZero daily, generates QBR presentation decks from templates using account-specific metrics, schedules QBR meeting invitations 6 weeks in advance, sends pre-QBR data request for
+# B2B SaaS Customer Success Playbook and QBR Automation Workflow
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gM8wP5iTbUEbRSgUccZa0L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gM8wP5iTbUEbRSgUccZa0L)
+- [Buy on Gumroad](https://gumroadian755.gumroad.com/l/esebyj)
+- [Buy on Whop](https://whop.com/b2b-saas-customer-success-playbook-and-qbr-automation-workflow)
+
